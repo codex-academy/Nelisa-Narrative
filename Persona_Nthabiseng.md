@@ -5,7 +5,7 @@ title: Nthabiseng
 
 # Nthabiseng
 
-![](./images/PersonaNthabiseng.png){: style="float:right; padding: 10px;"}
+![](./images/PersonaNthabiseng.png){: .pull-right }
 
 ## Customer of Nelisa’s Cash Store
 

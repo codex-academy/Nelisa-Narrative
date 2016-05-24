@@ -5,7 +5,7 @@ title: Nelisa
 
 # Nelisa
 
-![](./images/PersonaNelisa.png){: style="float:right; padding: 10px;"}
+![](./images/PersonaNelisa.png){: .pull-right }
 
 ## Owner of Nelisa's Cash Store
 

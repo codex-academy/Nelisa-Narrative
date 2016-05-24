@@ -5,7 +5,7 @@ title: Xolani
 
 # Xolani
 
-![](./images/PersonaXolani.png){: style="float:right; padding: 10px;"}
+![](./images/PersonaXolani.png){: .pull-right }
 
 ## Works at Nelisa’s Cash Store
 
