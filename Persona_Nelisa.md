@@ -5,11 +5,13 @@ title: Nelisa
 
 # Nelisa
 
-![](./images/PersonaNelisa.png){: style="float:right; padding: 10px;"}
+![](./images/PersonaNelisa.png){: .pull-right }
 
 ## Owner of Nelisa's Cash Store
 
 ### Mother of [Xolani](/Persona_Xolani.html) and grandmother of Ayanda.
+
+> I want to be able to analyze my sales to understand my business better.
 
 Lives in Khayelitsha, doesn’t have her own car but can use her brother’s bakkie when she needs to buy stock.
 
@@ -21,7 +23,3 @@ At first she had to be at the shop all the time, and her son Xolani would watch 
 Nelisa started the shop just buying a few things in bulk, and selling them for a little bit more, and it grew from there. She has recently started buying some home-made soap and shampoo from one of her frequent customers, helping to support her business as well.
 
 Nelisa sometimes remembers to keep the slips from her purchases, but doesn’t have many records. So far the shop has helped bring in extra income, but she’d like to be able to buy in bigger bulk to get better prices, but she is nervous to buy the wrong things and land up keeping stock for too long.
-
----
-
-| Profiles:  [Nelisa](/Persona_Nelisa.html) | [Xolani](/Persona_Xolani.html) | [Nthabiseng](/Persona_Nthabiseng.html) |
