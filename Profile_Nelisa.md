@@ -5,11 +5,11 @@ title: Nelisa
 
 # Nelisa
 
-![](./images/PersonaNelisa.png){: .pull-right }
+![](./images/ProfileNelisa.png){: .pull-right }
 
 ## Owner of Nelisa's Cash Store
 
-### Mother of [Xolani](/Persona_Xolani.html) and grandmother of Ayanda.
+### Mother of [Xolani](/Profile_Xolani.html) and grandmother of Ayanda.
 
 > I want to be able to analyze my sales to understand my business better.
 
