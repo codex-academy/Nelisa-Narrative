@@ -4,16 +4,17 @@ title: index
 ---
 
 # Nelisa's Cash Store
+
 Nelisa runs a spaza shop in Khayelitsha. She heard that you are doing programming and would like some help with her stock information.
 
 She introduces us to her staff, and tells us about her customers.
 
-## Personas
+## Profile
 These are the main people who are involved with Nelisa’s Cash Store. We need to take into consideration all the things that are important to them, when we create a solution for them.
 
-* [Nelisa](/Persona_Nelisa.html): Owner of Nelisa's Cash Store
-* [Xolani](/Persona_Xolani.html): Works at Nelisa's Cash Store
-* [Nthabiseng](/Persona_Nthabiseng.html): Customer of Nelisa's Cash Store
+* [Nelisa](/Profile_Nelisa.html): Owner of Nelisa's Cash Store
+* [Xolani](/Profile_Xolani.html): Works at Nelisa's Cash Store
+* [Nthabiseng](/Profile_Nthabiseng.html): Customer of Nelisa's Cash Store
 
 <!--code ignore purchasing-->
 Nelisa and Xolani want a solution that helps to improve their purchasing, so that they can purchase products in bulk (and reduce their prices) and have the right products in stock to keep the customer happy.

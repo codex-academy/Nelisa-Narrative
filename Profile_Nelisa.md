@@ -5,13 +5,11 @@ title: Nelisa
 
 # Nelisa
 
-![](./images/PersonaNelisa.png){: .pull-right }
+![](./images/ProfileNelisa.png){: .pull-right }
 
 ## Owner of Nelisa's Cash Store
 
-### Mother of [Xolani](/Persona_Xolani.html) and grandmother of Ayanda.
-
-> I want to be able to analyze my sales to understand my business better.
+### Mother of [Xolani](/Profile_Xolani.html) and grandmother of Ayanda.
 
 Lives in Khayelitsha, doesn’t have her own car but can use her brother’s bakkie when she needs to buy stock.
 
